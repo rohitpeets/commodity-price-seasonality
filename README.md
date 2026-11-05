@@ -44,10 +44,10 @@ I worked grain procurement in Punjab, and in 2025 I bought maize in June–July 
 
 ## Files
 
-- `Commodity_Seasonality_Analysis.xlsx` – the model, all live formulas. Change carry cost or year range on `Buy_Sell_Windows` and everything updates.
-- `commodity_seasonality.ipynb` – Python version, same numbers.
-- `Summary.pdf` – 2-page summary.
-- `data/` – raw CSVs and sources.
+- `Commodity_Seasonality_Analysis.xlsx`: the model, all live formulas. Change carry cost or year range on `Buy_Sell_Windows` and everything updates.
+- `commodity_seasonality.ipynb`: Python version, same numbers.
+- `Summary.pdf`: 2-page summary.
+- `data/`: raw CSVs and sources.
 
 ```bash
 pip install pandas numpy matplotlib jupyter
